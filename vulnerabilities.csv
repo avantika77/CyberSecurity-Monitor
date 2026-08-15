@@ -1,0 +1,7 @@
+vulnerability_id,asset_id,service,vulnerability,severity,cvss_score,status
+V001,A001,HTTP,Outdated Web Server,High,8.2,Open
+V002,A002,Database,Weak Database Configuration,Critical,9.1,Open
+V003,A003,SMB,Outdated SMB Service,High,7.8,Open
+V004,A005,FTP,Cleartext FTP Service,High,8.0,Open
+V005,A006,SSH,Weak SSH Configuration,Medium,5.3,Open
+V006,A008,HTTP,Outdated Monitoring Software,Medium,6.5,Open

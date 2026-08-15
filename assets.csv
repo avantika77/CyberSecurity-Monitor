@@ -1,0 +1,9 @@
+asset_id,hostname,ip_address,asset_type,operating_system,owner,criticality
+A001,WEB-SERVER,192.168.1.10,Server,Linux,IT,High
+A002,DB-SERVER,192.168.1.20,Server,Linux,Database,Critical
+A003,WORKSTATION-01,192.168.1.101,Workstation,Windows,Employee,Medium
+A004,WORKSTATION-02,192.168.1.102,Workstation,Windows,Employee,Medium
+A005,FILE-SERVER,192.168.1.30,Server,Windows,IT,High
+A006,DEV-PC,192.168.1.103,Workstation,Linux,Development,Medium
+A007,ROUTER,192.168.1.1,Network Device,Firmware,Network,Critical
+A008,MONITORING-SERVER,192.168.1.40,Server,Linux,Security,High
